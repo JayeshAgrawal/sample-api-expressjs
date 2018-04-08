@@ -4,7 +4,7 @@ MySQL data access API Development using Express.JS, Node.JS
 git clone https://github.com/JayeshAgrawal/sample-api-expressjs.git \
 cd sample-api \
 npm install \
-npm start \
+npm start
 
 
 
